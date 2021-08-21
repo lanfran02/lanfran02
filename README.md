@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Joaquín <img height="40" src="https://emoji.gg/assets/emoji/9879_hackerman.gif"></h1>
+<h1 align="center">Hi there 👋, I'm Lanfran <img height="40" src="https://emoji.gg/assets/emoji/9879_hackerman.gif"></h1>
 <br>
 <b>┌─[lanfran02@parrot]─[/home/lanfran02/personal]
 <br>
