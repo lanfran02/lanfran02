@@ -20,7 +20,7 @@ An enthusiastic Cybersecurity student and also a CTF player!
 <h3 align="center">Connect with me 😁:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacolanfran@gmail.com)
+[![image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joacolanfran+gth@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-lanfranconi/)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lanfran02)
 ![image](https://img.shields.io/badge/Lanfran02%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
