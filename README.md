@@ -58,14 +58,22 @@ An enthusiastic Cybersecurity student and also a CTF player!
       <a href="https://www.heroku.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> 
       </a>
+      <a href="https://www.metasploit.com/" target="_blank"> 
+        <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" alt="metasploit" width="40" height="40"/> 
+      </a>
+      <a href="https://nmap.org/" target="_blank"> 
+        <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> 
+      </a>
+      <a href="https://www.openwall.com/john/" target="_blank"> 
+        <img src="https://static.techspot.com/images2/downloads/topdownload/2017/05/jtr.png" alt="john" width="40" height="40"/> 
+      </a>
     </td>
     <td>
-      <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+      <a href="https://www.parrotsec.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" alt="parrotsec" width="40" height="40"/> 
       </a>
     </td>
   </tr>
-</table>
   
 <h3 align="center">My GitHub Stats 📊:</h3>
   
