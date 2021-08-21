@@ -11,11 +11,11 @@ An enthusiastic Cybersecurity student and also a CTF player!
 <br>
 └──╼ #cat about_me.txt</b>
 <br>
-- 🔭 I’m currently working on my **[YAAS Project](https://github.com/lanfran02/YAAS) and also on my [blog](https://lanfran02.github.io/)**
+- 🔭 I’m currently working on my <b><a href="https://github.com/lanfran02/YAAS">YAAS Project</a></b> and also on my <b><a href="https://lanfran02.github.io/">blog</a></b>
 <br>
-- 🌱 I’m currently studiyng **Attack and Defense techniques for cybersecurity**
+- 🌱 I’m currently studiyng <b>Attack and Defense techniques for cybersecurity</b>
 <br>
-- ⚡ What I like to do: **learn how the things works, break them and also fix them! On my free time I do BMX 🚲**
+- ⚡ What I like to do: <b>learn how the things works, break them and also fix them! On my free time I do BMX 🚲</b>
 
 <h3 align="center">Connect with me 😁:</h3>
 <div align="center">
@@ -24,30 +24,51 @@ An enthusiastic Cybersecurity student and also a CTF player!
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-lanfranconi/)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lanfran02)
 ![image](https://img.shields.io/badge/Lanfran02%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+<h3 align="center">Know my toys 🛠:</h3>
   
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
+<table>
+  <tr>
+    <th> Languages </th>
+    <th> Tools </th>
+    <th> OS </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.php.net/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+      </a>
+      <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a>  
+      <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+      </a>  
+      <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      </a>
+      <a href="https://www.markdownguide.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> 
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+      </a>
+      <a href="https://www.heroku.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> 
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linux.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+      </a>
+    </td>
+  </tr>
+</table>
+  
+<h3 align="center">My GitHub Stats 📊:</h3>
+  
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=lanfran02&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanfran02&theme=react&layout=compact" />
