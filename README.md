@@ -17,18 +17,6 @@ An enthusiastic Cybersecurity student and also a CTF player!
 <br>
 - ⚡ What I like to do: <b>learn how the things works, break them and also fix them! On my free time I do BMX 🚲</b>
 <br>
-# Blog posts
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://lanfran02.github.io//posts/aratus//"><img width="140px" src="https://lanfran02.github.io//posts/aratus//cover.jpeg"></a></td>
-<td><a href="https://lanfran02.github.io//posts/aratus//">Aratus - Write Up</a><br/>TryHackMe&#39;s medium level machine.</td></tr></table>
-<table><tr><td><a href="https://lanfran02.github.io//posts/ohmywebserver//"><img width="140px" src="https://lanfran02.github.io//posts/ohmywebserver//cover.jpeg"></a></td>
-<td><a href="https://lanfran02.github.io//posts/ohmywebserver//">Oh My WebServer - Write Up</a><br/>TryHackMe&#39;s medium level machine.</td></tr></table>
-<table><tr><td><a href="https://lanfran02.github.io//posts/eko-2021//"><img width="140px" src="https://lanfran02.github.io//posts/eko-2021//cover.jpeg"></a></td>
-<td><a href="https://lanfran02.github.io//posts/eko-2021//">Ekoparty 2021 - Write Up</a><br/>Challenges of the Ekoparty 2021 security</td></tr></table>
-<table><tr><td><a href="https://lanfran02.github.io//posts/palsforlife//"><img width="140px" src="https://lanfran02.github.io//posts/palsforlife//cover.jpeg"></a></td>
-<td><a href="https://lanfran02.github.io//posts/palsforlife//">Pals For Life - Write Up</a><br/>TryHackMe&#39;s medium level machine.</td></tr></table>
-<table><tr><td><a href="https://lanfran02.github.io//posts/zeno//"><img width="140px" src="https://lanfran02.github.io//posts/zeno//cover.jpeg"></a></td>
-<td><a href="https://lanfran02.github.io//posts/zeno//">Zeno - Write Up</a><br/>TryHackMe&#39;s medium level machine.</td></tr></table>
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me 😁:</h3>
 <div align="center">
@@ -93,6 +81,16 @@ An enthusiastic Cybersecurity student and also a CTF player!
       </a>
     </td>
   </tr>
+</table>  
+  
+<h3 align="center">Latests writeups 🎓:</h3>
+<table>
+   <tbody>
+      <tr>
+        <!-- BLOG-POST-LIST:START -->
+        <!-- BLOG-POST-LIST:END -->
+      </tr>
+  </tbody>
 </table>
   
 <h3 align="center">My GitHub Stats 📊:</h3>
