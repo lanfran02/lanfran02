@@ -14,5 +14,6 @@ jobs:
       - name: Pull in writeups
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          template: '<table><tr><td><a href="https://lanfran02.github.io/$url/"><img width="140px" src="https://lanfran02.github.io/$url/cover.jpeg"></a></td>$newline<td><a href="https://lanfran02.github.io/$url/">$title</a><br/>$description</td></tr></table>$newline'
+          max_post_count: 3
+          template: '<td><a href="https://lanfran02.github.io/$url/"><img width="140px" src="https://lanfran02.github.io/$url/cover.jpeg"></a></td>$newline<td><a href="https://lanfran02.github.io/$url/">$title</a><br/>$description</td>$newline'
           feed_list: "https://lanfran02.github.io/index.xml"
