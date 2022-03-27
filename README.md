@@ -83,7 +83,7 @@ An enthusiastic Cybersecurity student and also a CTF player!
   </tr>
 </table>  
   
-<h3 align="center">Latests writeups 🎓:</h3>
+<h3 align="center">Latest writeups 🎓:</h3>
 <table>
    <tbody>
       <tr>
