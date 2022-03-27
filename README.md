@@ -18,12 +18,26 @@ An enthusiastic Cybersecurity student and also a CTF player!
 - ⚡ What I like to do: <b>learn how the things works, break them and also fix them! On my free time I do BMX 🚲</b>
 <br>
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Aratus - Write Up](/posts/aratus/)
-- [Oh My WebServer - Write Up](/posts/ohmywebserver/)
-- [Ekoparty 2021 - Write Up](/posts/eko-2021/)
-- [Pals For Life - Write Up](/posts/palsforlife/)
-- [Zeno - Write Up](/posts/zeno/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://lanfran02.github.io//posts/aratus//"><img width="140px" src="https://lanfran02.github.io//posts/aratus//cover.jpeg"></a></td>
+<td><a href="https://lanfran02.github.io//posts/aratus//">Aratus - Write Up</a><br/>
+&lt;img src=&quot;/posts/aratus/cover.jpeg&quot;/&gt;
+TryHackMe&#39;s medium level machine.</td></tr></table>
+<table><tr><td><a href="https://lanfran02.github.io//posts/ohmywebserver//"><img width="140px" src="https://lanfran02.github.io//posts/ohmywebserver//cover.jpeg"></a></td>
+<td><a href="https://lanfran02.github.io//posts/ohmywebserver//">Oh My WebServer - Write Up</a><br/>
+&lt;img src=&quot;/posts/ohmywebserver/cover.jpeg&quot;/&gt;
+TryHackMe&#39;s medium level machine.</td></tr></table>
+<table><tr><td><a href="https://lanfran02.github.io//posts/eko-2021//"><img width="140px" src="https://lanfran02.github.io//posts/eko-2021//cover.jpeg"></a></td>
+<td><a href="https://lanfran02.github.io//posts/eko-2021//">Ekoparty 2021 - Write Up</a><br/>
+&lt;img src=&quot;/posts/eko-2021/cover.jpeg&quot;/&gt;
+Challenges of the Ekoparty 2021 security</td></tr></table>
+<table><tr><td><a href="https://lanfran02.github.io//posts/palsforlife//"><img width="140px" src="https://lanfran02.github.io//posts/palsforlife//cover.jpeg"></a></td>
+<td><a href="https://lanfran02.github.io//posts/palsforlife//">Pals For Life - Write Up</a><br/>
+&lt;img src=&quot;/posts/palsforlife/cover.jpeg&quot;/&gt;
+TryHackMe&#39;s medium level machine.</td></tr></table>
+<table><tr><td><a href="https://lanfran02.github.io//posts/zeno//"><img width="140px" src="https://lanfran02.github.io//posts/zeno//cover.jpeg"></a></td>
+<td><a href="https://lanfran02.github.io//posts/zeno//">Zeno - Write Up</a><br/>
+&lt;img src=&quot;/posts/zeno/cover.jpeg&quot;/&gt;
+TryHackMe&#39;s medium level machine.</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me 😁:</h3>
