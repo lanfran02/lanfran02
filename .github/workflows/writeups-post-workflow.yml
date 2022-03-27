@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in writeups
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          template: '<table><tr><td><a href="https://lanfran02.github.io/$url/"><img width="140px" src="https://lanfran02.github.io/$url/cover.jpeg"></a></td>$newline<td><a href="https://lanfran02.github.io/$url/">$title</a><br/>$description</td></tr></table>$newline'
           feed_list: "https://lanfran02.github.io/index.xml"
