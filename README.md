@@ -19,6 +19,11 @@ An enthusiastic Cybersecurity student and also a CTF player!
 <br>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aratus - Write Up](/posts/aratus/)
+- [Oh My WebServer - Write Up](/posts/ohmywebserver/)
+- [Ekoparty 2021 - Write Up](/posts/eko-2021/)
+- [Pals For Life - Write Up](/posts/palsforlife/)
+- [Zeno - Write Up](/posts/zeno/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me 😁:</h3>
