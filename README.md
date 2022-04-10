@@ -103,6 +103,7 @@ An enthusiastic Cybersecurity student and also a CTF player!
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=lanfran02&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanfran02&theme=react&layout=compact" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=lanfran02&color=5dd9f9&label=Stalkers" />
 </p>
   
