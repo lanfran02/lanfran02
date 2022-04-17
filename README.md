@@ -11,9 +11,9 @@ An enthusiastic Cybersecurity student and also a CTF player!
 <br>
 └──╼ #cat about_me.txt</b>
 <br>
-- 🔭 I’m currently working on my <b><a href="https://github.com/lanfran02/YAAS">YAAS Project</a></b> and also on my <b><a href="https://lanfran02.github.io/">blog</a></b>
+- 🔭 I’m currently working on my <b><a href="https://github.com/lanfran02/YAAS">YAAS Project</a></b> and also on my <b><a href="https://lanfran02.github.io/">blog</a></b>. Recently I released a new framework, <a href="https://github.com/lanfran02/WhaBot">WhaBot</a></b>! You can now create WhatsApp bots!! Check it out! 
 <br>
-- 🌱 I’m currently studiyng <b>Attack and Defense techniques for cybersecurity</b>
+- 🌱 I’m currently studying <b>Attack and Defense techniques for cybersecurity</b>
 <br>
 - ⚡ What I like to do: <b>learn how the things works, break them and also fix them! On my free time I do BMX 🚲</b>
 <br>
