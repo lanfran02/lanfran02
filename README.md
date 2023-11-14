@@ -82,7 +82,16 @@ An enthusiastic Cybersecurity student and also a CTF player!
     </td>
   </tr>
 </table>  
-  
+
+<h3 align="center">My certifications 🥇:</h3>
+
+<a href="https://www.credential.net/c9a30feb-3a49-4e00-8293-3e5fa9381fea" target="_blank"> 
+  <img src="https://i0.wp.com/ekoparty.org/wp-content/uploads/2023/04/Hackademy_isologo.png" width="80" height="102"/> 
+</a>
+<a href="https://www.credential.net/c9a30feb-3a49-4e00-8293-3e5fa9381fea" target="_blank"> 
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86964822" width="120" height="120"/> 
+</a>
+
 <h3 align="center">Latest writeups 🎓:</h3>
 <table>
    <tbody>
