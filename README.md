@@ -85,7 +85,7 @@ An enthusiastic Cybersecurity student and also a CTF player!
 
 <h3 align="center">My certifications 🥇:</h3>
 
-<a href="https://www.credential.net/c9a30feb-3a49-4e00-8293-3e5fa9381fea" target="_blank"> 
+<a href="https://github.com/lanfran02/lanfran02.github.io/blob/main/content/certs/Ekoparty_FOHD_2022.pdf" target="_blank"> 
   <img src="https://i0.wp.com/ekoparty.org/wp-content/uploads/2023/04/Hackademy_isologo.png" width="80" height="102"/> 
 </a>
 <a href="https://www.credential.net/c9a30feb-3a49-4e00-8293-3e5fa9381fea" target="_blank"> 
